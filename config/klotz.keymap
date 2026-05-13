@@ -164,7 +164,6 @@
                                    &kp LGUI      &lt 1 SPACE  &lt 2 ENTER  &kp BSPC
             >;
 
-            sensor-bindings =
                 sensor-bindings = <&scroll_up_down>;
         };
 
